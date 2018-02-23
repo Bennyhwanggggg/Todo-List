@@ -9,8 +9,9 @@ body {
 	margin: 100px auto;
 	background-color: #f7f7f7;
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-	border: 10px solid black;
-
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
 	border-radius: 10px;
 }
 
